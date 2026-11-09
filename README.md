@@ -45,4 +45,4 @@ Building strong practical expertise in DevOps and Cloud Engineering by developin
 
 ### 🤝 Connect With Me
 
-LinkedIn: Add your LinkedIn profile URL here.
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sikaram-harini-73310832a/)

@@ -26,7 +26,28 @@ Currently focused on strengthening my hands-on skills in AWS, Terraform, Python 
 
 A project focused on AWS infrastructure provisioning, resource management, security auditing, monitoring, and cost visibility.
 
-Technologies: Terraform, AWS, Python, FastAPI, React.
+## 🛠️ Technologies & Tools
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Programming & Version Control
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Currently Exploring
+- Boto3
+- FastAPI
+- React
+- Docker and Kubernetes
+
+
 
 [View Project](https://github.com/718harini/aws-enterprise-terraform-platform)
 

@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Harini 👋
 
-<!--
-**718harini/718harini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+MCA Graduate | AWS | Terraform | Python | Git | CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Cloud Computing, DevOps, Infrastructure Automation, and building practical technology projects.
+
+Currently focused on strengthening my hands-on skills in AWS, Terraform, Python automation, and CI/CD through real-world projects.
+
+### 🛠️ Technical Skills
+
+**Cloud:** AWS
+
+**Infrastructure as Code:** Terraform
+
+**Version Control:** Git, GitHub
+
+**CI/CD:** Jenkins, GitHub Actions (learning and hands-on practice)
+
+**Programming:** Python (learning)
+
+### 🚀 Featured Projects
+
+**AWS Enterprise Terraform Platform**
+
+A project focused on AWS infrastructure provisioning, resource management, security auditing, monitoring, and cost visibility.
+
+Technologies: Terraform, AWS, Python, FastAPI, React.
+
+[View Project](https://github.com/718harini/aws-enterprise-terraform-platform)
+
+### 📚 Currently Learning
+
+- Advanced Terraform
+- AWS Architecture
+- Python Automation
+- CI/CD Pipelines
+- Docker and Kubernetes
+- Monitoring and Observability
+
+### 🎯 Career Goal
+
+Building strong practical expertise in DevOps and Cloud Engineering by developing projects, troubleshooting infrastructure, and continuously improving my technical skills.
+
+### 🤝 Connect With Me
+
+LinkedIn: Add your LinkedIn profile URL here.

@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/718harini/718harini/main/harini-profile.jpg" width="155" alt="Harini Sikaram"/>
+<img src="https://raw.githubusercontent.com/718harini/718harini/main/harini-profile..jpg"
+     width="155"
+     alt="Harini Sikaram"/>
 
 <br/>
 

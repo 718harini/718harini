@@ -1,12 +1,14 @@
 # Hi, I'm Harini 👋
 
-### Aspiring DevOps & Cloud Engineer
+### Aspiring DevOps & Cloud Engineer ☁️
 
-MCA Graduate | AWS | Terraform | Python | Git | CI/CD
+MCA Graduate | AWS | Terraform | Python | CI/CD | Infrastructure Automation
 
-I'm passionate about Cloud Computing, DevOps, Infrastructure Automation, and building practical technology projects.
+I'm passionate about Cloud Computing, DevOps, and Infrastructure Automation. I enjoy building hands-on projects, automating infrastructure, and exploring practical solutions to real-world engineering challenges.
 
-Currently focused on strengthening my hands-on skills in AWS, Terraform, Python automation, and CI/CD through real-world projects.
+Currently focused on developing practical expertise in AWS, Terraform, Python automation, CI/CD pipelines, and cloud infrastructure management.
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -16,54 +18,58 @@ Currently focused on strengthening my hands-on skills in AWS, Terraform, Python 
 
 **Version Control:** Git, GitHub
 
-**CI/CD:** Jenkins, GitHub Actions (learning and hands-on practice)
+**CI/CD:** Jenkins, GitHub Actions
 
-**Programming:** Python (learning)
+**Programming:** Python
+
+**Build Tools:** Maven
+
+**Currently Exploring:** Docker, Kubernetes, Prometheus, Grafana
+
+---
 
 ### 🚀 Featured Projects
 
-**AWS Enterprise Terraform Platform**
+**1. AWS Enterprise Terraform Platform**
 
-A project focused on AWS infrastructure provisioning, resource management, security auditing, monitoring, and cost visibility.
+A modular cloud infrastructure management platform built using Terraform, Python FastAPI, Boto3, and React.
 
-## 🛠️ Technologies & Tools
+Focus areas:
+- AWS Infrastructure Provisioning
+- Infrastructure as Code
+- Cloud Resource Management
+- Security Auditing
+- Monitoring and Cost Visibility
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+🔗 [View Project](https://github.com/718harini/aws-enterprise-terraform-platform)
 
-### Programming & Version Control
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**2. AWS Cost Optimization Automation**
 
-### CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+A Python and Boto3-based project for auditing AWS resources, monitoring utilization, and identifying potential cost-saving opportunities.
 
-### Currently Exploring
-- Boto3
-- FastAPI
-- React
-- Docker and Kubernetes
+🔗 [Explore My Repositories](https://github.com/718harini?tab=repositories)
 
-
-
-[View Project](https://github.com/718harini/aws-enterprise-terraform-platform)
+---
 
 ### 📚 Currently Learning
 
-- Advanced Terraform
-- AWS Architecture
-- Python Automation
-- CI/CD Pipelines
+- Advanced AWS Architecture
+- Terraform Modules and Infrastructure Design
+- Python Automation with Boto3
+- CI/CD Pipeline Implementation
 - Docker and Kubernetes
 - Monitoring and Observability
 
-### 🎯 Career Goal
+---
 
-Building strong practical expertise in DevOps and Cloud Engineering by developing projects, troubleshooting infrastructure, and continuously improving my technical skills.
+### 🎯 Career Focus
+
+Building practical expertise in DevOps and Cloud Engineering through hands-on projects, infrastructure automation, continuous learning, and troubleshooting real-world scenarios.
+
+---
 
 ### 🤝 Connect With Me
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sikaram-harini-73310832a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/718harini)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sikaram-harini-73310832a/)

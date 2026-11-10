@@ -1,23 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=HARINI%20SIKARAM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20ENGINEERING&descSize=18&descAlignY=60"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/718harini/718harini/main/harini-profile.jpg" width="150" alt="Harini Sikaram"/>
-
-# Harini Sikaram
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:123C36,100:00A878&height=190&section=header&text=Harini%20Sikaram&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descSize=17" />
 
 ### Aspiring DevOps & Cloud Engineer
 
-Cloud Infrastructure • Automation • CI/CD • Infrastructure as Code
+Building practical skills in cloud infrastructure, automation, and CI/CD.
 
-<a href="https://github.com/718harini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/sikaram-harini-73310832a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-718harini-181717?style=flat-square&logo=github)](https://github.com/718harini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sikaram-harini-73310832a/)
 
 </div>
 
@@ -25,44 +17,31 @@ Cloud Infrastructure • Automation • CI/CD • Infrastructure as Code
 
 ## About Me
 
-MCA graduate passionate about Cloud Computing, DevOps Engineering, and Infrastructure Automation.
+I'm an MCA graduate working towards a career in **DevOps and Cloud Engineering**.
 
-I enjoy designing cloud infrastructure, automating repetitive tasks, implementing CI/CD pipelines, and building practical engineering projects.
+I enjoy learning by building projects, experimenting with AWS infrastructure, automating tasks, and understanding how applications are deployed and managed.
 
-- ☁️ AWS Cloud Infrastructure
-- ⚙️ Terraform & Infrastructure as Code
-- 🐍 Python & Boto3 Automation
-- 🔄 CI/CD Pipeline Implementation
-- 🔐 Cloud Security & Monitoring
-- 🚀 Hands-on DevOps Projects
+- 🎓 MCA Graduate
+- ☁️ Learning and building with AWS
+- ⚙️ Hands-on experience with Terraform and infrastructure automation
+- 🔄 Practising CI/CD workflows
+- 🐍 Exploring Python automation with Boto3
+- 🎯 Focused on practical engineering skills and continuous learning
 
 ---
 
 ## Technical Skills
 
-**Cloud & Infrastructure**
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,terraform"/>
-</p>
-
-**Programming & Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,react"/>
-</p>
-
-**DevOps & CI/CD**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,maven"/>
-</p>
-
-**Currently Learning**
-
-<p>
-<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana"/>
-</p>
+| Area | Technologies |
+|---|---|
+| Cloud | AWS |
+| Infrastructure as Code | Terraform |
+| Version Control | Git, GitHub |
+| CI/CD | Jenkins, GitHub Actions |
+| Programming & Automation | Python, Boto3 |
+| Build Tools | Maven |
+| Backend | FastAPI |
+| Frontend | React |
 
 ---
 
@@ -70,79 +49,55 @@ I enjoy designing cloud infrastructure, automating repetitive tasks, implementin
 
 ### 01. AWS Enterprise Terraform Platform
 
-**Terraform | AWS | Python | FastAPI | Boto3 | React**
+**Terraform · AWS · Python · FastAPI · Boto3 · React**
 
-A modular AWS infrastructure management platform focused on:
+A modular AWS infrastructure management platform focused on infrastructure provisioning, resource visibility, security auditing, monitoring, and cost management.
 
-- Infrastructure provisioning and automation
-- AWS resource management
-- Security auditing
-- Monitoring and cost visibility
-
-[Explore Project →](https://github.com/718harini/aws-enterprise-terraform-platform)
-
-### 02. AWS Cost Optimization Automation
-
-**Python | Boto3 | AWS | CloudWatch**
-
-An automation project designed to audit AWS resources, analyze utilization, and identify potential cost-saving opportunities.
-
-[Explore Repositories →](https://github.com/718harini?tab=repositories)
-
-### 03. Maven DevOps Project
-
-**Java | Maven | AWS | DevOps**
-
-A practical project exploring application builds, deployment workflows, and DevOps practices.
-
-[Explore Project →](https://github.com/718harini/maven-devops-project)
+[![View Project](https://img.shields.io/badge/Explore_Project-00A878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/718harini/aws-enterprise-terraform-platform)
 
 ---
 
-## GitHub Analytics
+### 02. Maven DevOps Project
+
+**Java · Maven · DevOps**
+
+A practical project used to explore Maven-based application build workflows and DevOps concepts.
+
+[![View Project](https://img.shields.io/badge/Explore_Project-00A878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/718harini/maven-devops-project)
+
+---
+
+## Currently Learning
+
+- Advanced CI/CD practices
+- Jenkins pipelines and GitHub Actions
+- Docker and containerization
+- Kubernetes fundamentals
+- Prometheus and Grafana
+- Python automation and troubleshooting
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=718harini&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=718harini&show_icons=true&theme=transparent&hide_border=true&title_color=00A878&icon_color=00A878&text_color=C9D1D9" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=718harini&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=718harini&layout=compact&theme=transparent&hide_border=true&title_color=00A878&text_color=C9D1D9" />
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=718harini&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=718harini&theme=transparent&hide_border=true&ring=00A878&fire=00A878&currStreakLabel=00A878" />
 
 </div>
 
 ---
 
-## Current Focus
-
-- Advanced AWS Architecture
-- Terraform Modules
-- Python Cloud Automation
-- CI/CD Pipelines
-- Docker & Kubernetes
-- Monitoring & Observability
-- Infrastructure Troubleshooting
-
----
-
 <div align="center">
 
-### Let's Connect
+### Learn. Build. Troubleshoot. Improve.
 
-<a href="https://www.linkedin.com/in/sikaram-harini-73310832a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+*Focused on becoming a better engineer, one project at a time.*
 
-<a href="https://github.com/718harini">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-**Building. Learning. Automating. Improving.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A878,50:123C36,100:101820&height=100&section=footer" />
 
 </div>

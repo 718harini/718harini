@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Harini%20Sikaram&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineering&descAlignY=58&descSize=18" width="100%" />
 
+<div align="center">
+  <img src="./harini-profile.jpg" width="170" alt="Harini Sikaram"/>
+</div>
 # Hi, I'm Harini 👋
 
 ### Aspiring DevOps & Cloud Engineer

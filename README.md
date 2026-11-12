@@ -1,163 +1,148 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090B16,35:24164A,70:263C78,100:087E8B&text=HARINI%20SIKARAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20%2F%20CLOUD%20ENGINEERING&descSize=17&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090B16,40:24164A,75:263C78,100:087E8B&text=HARINI%20SIKARAM&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=%E2%98%81%20DevOps%20%C2%B7%20Cloud%20%C2%B7%20Automation&descSize=20&descAlignY=64&animation=twinkling"/>
+
+<img src="https://raw.githubusercontent.com/718harini/718harini/main/harini-profile.jpg" width="140" alt="Harini's profile photo"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/718harini/718harini/main/harini-profile.jpg" width="130" alt="Harini's profile photo"/>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+%26+Cloud+Engineer;Building+on+AWS+with+Terraform+%26+Python;Automating+infrastructure%2C+one+pipeline+at+a+time" alt="Typing animation"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=%24+terraform+apply+--auto-approve;%24+python+audit_aws_costs.py;%24+git+push+%26%26+watch+the+pipeline+go+green;Learning+by+building.+Growing+through+troubleshooting." alt="Typing animation"/></a>
 
 <br/>
 
-`BUILD` &nbsp;•&nbsp; `AUTOMATE` &nbsp;•&nbsp; `DEPLOY` &nbsp;•&nbsp; `IMPROVE`
-
-<br/>
-
-<a href="https://github.com/718harini"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sikaram-harini-73310832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/718harini"><img src="https://img.shields.io/badge/GitHub-718harini-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sikaram-harini-73310832a/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-087E8B?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
----
+## `$ whoami`
 
-## 👩‍💻 About Me
+```hcl
+resource "engineer" "harini" {
+  role      = "Aspiring DevOps & Cloud Engineer"
+  education = "MCA Graduate"
 
-MCA graduate passionate about **Cloud Computing**, **DevOps Engineering**, and **Infrastructure Automation**.
+  passions  = ["Cloud Computing", "DevOps Engineering", "Infrastructure Automation"]
 
-I enjoy designing cloud infrastructure, automating repetitive tasks, implementing CI/CD pipelines, and building practical, hands-on engineering projects.
+  focus = {
+    cloud      = "AWS infrastructure & architecture"
+    iac        = "Terraform modules"
+    automation = "Python + Boto3"
+    delivery   = "CI/CD pipelines"
+    security   = "Cloud security & monitoring"
+  }
 
-> **My approach:** &nbsp; `Learn` → `Build` → `Test` → `Troubleshoot` → `Improve`
+  approach  = "Learn → Build → Test → Troubleshoot → Improve"
+}
+```
+
+I enjoy designing cloud infrastructure, automating repetitive tasks, implementing CI/CD pipelines, and turning ideas into practical, hands-on engineering projects.
 
 <br/>
 
+## 🔁 How I Work
+
+```mermaid
+flowchart LR
+    A([📘 Learn]) --> B([🛠️ Build])
+    B --> C([🧪 Test])
+    C --> D([🔍 Troubleshoot])
+    D --> E([🚀 Improve])
+    E -. next iteration .-> A
+
+    style A fill:#24164A,stroke:#A78BFA,color:#fff
+    style B fill:#263C78,stroke:#38BDF8,color:#fff
+    style C fill:#087E8B,stroke:#38BDF8,color:#fff
+    style D fill:#263C78,stroke:#A78BFA,color:#fff
+    style E fill:#24164A,stroke:#38BDF8,color:#fff
+```
+
+<br/>
+
+## 🧰 Tech Stack
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 What I Work On
-
-- ☁️ AWS cloud infrastructure
-- ⚙️ Terraform & Infrastructure as Code
-- 🐍 Python & Boto3 automation
-- 🔄 CI/CD pipeline implementation
-- 🔐 Cloud security & monitoring
-- 🛠️ Hands-on DevOps projects
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Engineering Interests
-
-- 🏗️ Cloud Architecture
-- 🤖 Automation
-- 🔁 CI/CD Engineering
-- 🧩 Infrastructure Troubleshooting
-- 📊 Monitoring & Observability
-- 💰 Cost Optimization
-
-</td>
+<td width="25%" align="center"><b>☁️ Cloud & IaC</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,terraform" /></td>
+<td width="25%" align="center"><b>💻 Development</b><br/><br/><img src="https://skillicons.dev/icons?i=python,java,fastapi,react" /></td>
+<td width="25%" align="center"><b>⚙️ DevOps & CI/CD</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,maven" /></td>
+<td width="25%" align="center"><b>📚 Currently Learning</b><br/><br/><img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana" /></td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🧰 Technical Arsenal
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**☁️ Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform" />
-
-</td>
-<td align="center" width="50%">
-
-**💻 Programming & Development**
-
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,react" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**⚙️ DevOps & CI/CD**
-
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,maven" />
-
-</td>
-<td align="center">
-
-**📚 Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Featured Projects
+## 🏗️ Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ AWS Enterprise Terraform Platform
+#### ☁️ AWS Enterprise Terraform Platform
 
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws"/> <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform"/> <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python"/>
 
 A modular AWS infrastructure management platform.
 
-- Infrastructure provisioning
-- AWS resource management
-- Security auditing
-- Monitoring and cost visibility
+```diff
++ Infrastructure provisioning
++ AWS resource management
++ Security auditing
++ Monitoring and cost visibility
+```
 
-<a href="https://github.com/718harini/aws-enterprise-terraform-platform"><img src="https://img.shields.io/badge/VIEW%20PROJECT-↗-087E8B?style=for-the-badge"/></a>
+[**View project ↗**](https://github.com/718harini/aws-enterprise-terraform-platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 AWS Cost Optimization Automation
+#### 💰 AWS Cost Optimization Automation
 
 <img src="https://img.shields.io/badge/Python-Boto3-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws"/> <img src="https://img.shields.io/badge/CloudWatch-Monitoring-FF9900?style=flat-square&logo=amazoncloudwatch"/>
 
-An automation project that audits AWS resources, analyzes utilization, and identifies potential cost-saving opportunities.
+Audits AWS resources, analyzes utilization, and surfaces potential cost-saving opportunities.
 
-- Resource auditing
-- CloudWatch metrics
-- Utilization analysis
-- Cost optimization findings
+```diff
++ Resource auditing
++ CloudWatch metrics
++ Utilization analysis
++ Cost optimization findings
+```
 
-<a href="https://github.com/718harini?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-↗-087E8B?style=for-the-badge"/></a>
+[**View repositories ↗**](https://github.com/718harini?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 📦 Maven DevOps Project
+#### 📦 Maven DevOps Project
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Engineering-2563EB?style=flat-square"/>
 
-A practical project exploring application builds, dependency management, deployment workflows, and DevOps practices.
+Explores application builds, dependency management, deployment workflows, and DevOps practices.
 
-<a href="https://github.com/718harini/maven-devops-project"><img src="https://img.shields.io/badge/VIEW%20PROJECT-↗-087E8B?style=for-the-badge"/></a>
+[**View project ↗**](https://github.com/718harini/maven-devops-project)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+## 🎯 Current Mission
+
+| ☁️ Cloud & Automation | 🔧 DevOps Engineering |
+| :-- | :-- |
+| Advanced AWS architecture | Docker & Kubernetes |
+| Terraform modules | Monitoring & observability |
+| Python cloud automation | Infrastructure troubleshooting |
+| CI/CD pipelines | Continuous improvement |
+
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -176,49 +161,25 @@ A practical project exploring application builds, dependency management, deploym
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Automation
-
-- Advanced AWS architecture
-- Terraform modules
-- Python cloud automation
-- CI/CD pipelines
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 DevOps Engineering
-
-- Docker & Kubernetes
-- Monitoring & observability
-- Infrastructure troubleshooting
-- Continuous improvement
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
+<br/>
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating, and discussing cloud and DevOps.
+Always happy to talk cloud, DevOps, and automation, or to collaborate on something worth building.
 
 <a href="https://www.linkedin.com/in/sikaram-harini-73310832a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://github.com/718harini"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
 
-<br/><br/>
+<div align="center">
 
-*Learning by building. Growing through troubleshooting.*
+<br/>
+
+```text
+┌──────────────────────────────────────────────────┐
+│  Learning by building. Growing through           │
+│  troubleshooting.                                │
+└──────────────────────────────────────────────────┘
+```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:090B16,35:24164A,70:263C78,100:087E8B&section=footer"/>
 

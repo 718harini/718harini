@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Learning by building. Growing through troubleshooting.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090B16"/>
+      <stop offset="0.5" stop-color="#24164A"/>
+      <stop offset="1" stop-color="#087E8B"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="190" rx="18" fill="url(#bg)"/>
+
+  <text x="450" y="64" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="url(#txt)" filter="url(#glow)">Learning by building. Growing through troubleshooting.</text>
+
+  <!-- heartbeat: base line -->
+  <path d="M0 130H300L330 130L345 100L360 160L378 70L395 150L410 130H560L590 130L605 100L620 160L638 70L655 150L670 130H900" fill="none" stroke="#38BDF8" stroke-opacity="0.2" stroke-width="2" stroke-linejoin="round"/>
+  <!-- heartbeat: moving pulse -->
+  <path d="M0 130H300L330 130L345 100L360 160L378 70L395 150L410 130H560L590 130L605 100L620 160L638 70L655 150L670 130H900" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1000" stroke-dasharray="90 910" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="90;-1000" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="880" y="176" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#64748b">exit 0</text>
+  <text x="26" y="176" font-family="'Courier New',monospace" font-size="12" fill="#64748b">uptime: always learning</text>
+</svg>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="Architecture diagram of how Harini's skills connect">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#38BDF8"/>
+    </marker>
+    <marker id="p" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#A78BFA"/>
+    </marker>
+    <marker id="o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#FF9900"/>
+    </marker>
+  </defs>
+  <style>
+    .flow  { fill: none; stroke: #38BDF8; stroke-width: 2; stroke-dasharray: 6 5; animation: dash 1s linear infinite; }
+    .flowP { fill: none; stroke: #A78BFA; stroke-width: 2; stroke-dasharray: 6 5; animation: dash 1.4s linear infinite; }
+    .flowO { fill: none; stroke: #FF9900; stroke-width: 2; stroke-dasharray: 6 5; animation: dash 1s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -11; } }
+    .t { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #e2e8f0; text-anchor: middle; }
+    .s { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; fill: #94a3b8; text-anchor: middle; }
+    .lbl { font-family: 'Courier New', monospace; font-size: 11px; fill: #64748b; }
+    .node  { fill: #111833; stroke: #38BDF8; stroke-opacity: 0.75; stroke-width: 1.5; }
+    .learn { fill: #151133; stroke: #A78BFA; stroke-width: 1.5; stroke-dasharray: 5 4; }
+    .aws   { fill: #2a1d08; stroke: #FF9900; stroke-width: 2; }
+    .me    { fill: #1a1240; stroke: #A78BFA; stroke-width: 2; }
+    @keyframes pulse { 0%,100% { stroke-opacity: 0.4; } 50% { stroke-opacity: 1; } }
+    .aws { animation: pulse 2.4s ease-in-out infinite; }
+  </style>
+
+  <rect width="900" height="430" rx="18" fill="#0D1117" stroke="#24164A" stroke-width="2"/>
+  <text x="26" y="36" class="lbl" style="font-size:13px">architecture.svg  ·  how my skills connect</text>
+
+  <!-- connectors: main row -->
+  <path class="flow" d="M138 200H172" marker-end="url(#a)"/>
+  <path class="flow" d="M286 200H320" marker-end="url(#a)"/>
+  <path class="flow" d="M434 200H468" marker-end="url(#a)"/>
+  <path class="flow" d="M582 200H616" marker-end="url(#a)"/>
+  <path class="flowO" d="M730 200H764" marker-end="url(#o)"/>
+
+  <!-- app code -> git -->
+  <path class="flow" d="M230 140V170" marker-end="url(#a)"/>
+  <!-- docker -> kubernetes (learning) -->
+  <path class="flowP" d="M526 170V140" marker-end="url(#p)"/>
+  <!-- python -> aws -->
+  <path class="flowO" d="M822 328V258" marker-end="url(#o)"/>
+  <!-- aws -> cloudwatch -->
+  <path class="flow" d="M790 258L700 328" marker-end="url(#a)"/>
+  <!-- cloudwatch -> prometheus/grafana (learning) -->
+  <path class="flowP" d="M618 356H584" marker-end="url(#p)"/>
+
+  <!-- top row -->
+  <g transform="translate(174,84)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">App code</text>
+    <text class="s" x="56" y="42" style="font-size:9px">Java · FastAPI · React</text>
+  </g>
+  <g transform="translate(470,84)">
+    <rect class="learn" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Kubernetes</text>
+    <text class="s" x="56" y="42">currently learning</text>
+  </g>
+
+  <!-- main row -->
+  <g transform="translate(26,172)">
+    <rect class="me" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Harini</text>
+    <text class="s" x="56" y="42">plan · build · ship</text>
+  </g>
+  <g transform="translate(174,172)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Git · GitHub</text>
+    <text class="s" x="56" y="42">version control</text>
+  </g>
+  <g transform="translate(322,172)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Jenkins · Maven</text>
+    <text class="s" x="56" y="42">build &amp; integrate</text>
+  </g>
+  <g transform="translate(470,172)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Docker</text>
+    <text class="s" x="56" y="42">package</text>
+  </g>
+  <g transform="translate(618,172)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Terraform</text>
+    <text class="s" x="56" y="42">infrastructure as code</text>
+  </g>
+  <g transform="translate(766,172)">
+    <rect class="aws" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24" style="fill:#FFB84D">AWS</text>
+    <text class="s" x="56" y="42">cloud platform</text>
+  </g>
+
+  <!-- bottom row -->
+  <g transform="translate(470,328)">
+    <rect class="learn" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24" style="font-size:12px">Prometheus · Grafana</text>
+    <text class="s" x="56" y="42">currently learning</text>
+  </g>
+  <g transform="translate(618,328)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">CloudWatch</text>
+    <text class="s" x="56" y="42">metrics &amp; alarms</text>
+  </g>
+  <g transform="translate(766,328)">
+    <rect class="node" width="112" height="56" rx="10"/>
+    <text class="t" x="56" y="24">Python · Boto3</text>
+    <text class="s" x="56" y="42">automation</text>
+  </g>
+
+  <!-- edge labels -->
+  <text class="lbl" x="236" y="160">code</text>
+  <text class="lbl" x="832" y="298">automates</text>
+  <text class="lbl" x="716" y="288" transform="rotate(-0 716 288)">observes</text>
+
+  <!-- legend -->
+  <g transform="translate(26,404)">
+    <path d="M0 0H34" stroke="#38BDF8" stroke-width="2" stroke-dasharray="6 5"/>
+    <text class="lbl" x="44" y="4">in use</text>
+    <path d="M130 0H164" stroke="#A78BFA" stroke-width="2" stroke-dasharray="6 5"/>
+    <text class="lbl" x="174" y="4">currently learning</text>
+    <path d="M320 0H354" stroke="#FF9900" stroke-width="2" stroke-dasharray="6 5"/>
+    <text class="lbl" x="364" y="4">cloud &amp; automation</text>
+  </g>
+</svg>

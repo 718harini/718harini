@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Harini Sikaram - DevOps, Cloud, Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090B16"/>
+      <stop offset="0.5" stop-color="#24164A"/>
+      <stop offset="1" stop-color="#087E8B"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="900" height="360" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="360" fill="url(#bg)"/>
+    <rect width="900" height="360" fill="url(#grid)"/>
+
+    <!-- scan line -->
+    <rect x="0" y="0" width="900" height="3" fill="#38BDF8" opacity="0.18">
+      <animate attributeName="y" values="-4;364" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- floating particles -->
+    <g fill="#38BDF8">
+      <circle cx="60" cy="340" r="2"><animate attributeName="cy" values="350;10" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="340" r="1.5" fill="#A78BFA"><animate attributeName="cy" values="350;10" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="12s" repeatCount="indefinite"/></circle>
+      <circle cx="310" cy="340" r="2"><animate attributeName="cy" values="350;10" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="340" r="1.5" fill="#A78BFA"><animate attributeName="cy" values="350;10" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="340" r="2"><animate attributeName="cy" values="350;10" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="840" cy="340" r="1.5" fill="#A78BFA"><animate attributeName="cy" values="350;10" dur="13s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="13s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- online chip -->
+    <circle cx="832" cy="34" r="5" fill="#4ade80">
+      <animate attributeName="r" values="4;6.5;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="880" y="39" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8" letter-spacing="1">online</text>
+
+    <!-- name -->
+    <text x="450" y="98" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="6" fill="url(#name)" filter="url(#glow)">HARINI SIKARAM</text>
+    <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" letter-spacing="8" fill="#cbd5e1">DEVOPS  ·  CLOUD  ·  AUTOMATION</text>
+
+    <!-- terminal window -->
+    <rect x="150" y="155" width="600" height="177" rx="10" fill="#0b1020" fill-opacity="0.92" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <path d="M150 165a10 10 0 0 1 10-10h580a10 10 0 0 1 10 10v16H150z" fill="#141b34"/>
+    <circle cx="172" cy="168" r="5" fill="#ff5f57"/>
+    <circle cx="192" cy="168" r="5" fill="#febc2e"/>
+    <circle cx="212" cy="168" r="5" fill="#28c840"/>
+    <text x="450" y="172" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#64748b">harini@cloud:~</text>
+
+    <g font-family="'Courier New',Consolas,monospace" font-size="13">
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.05;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="208" fill="#A78BFA">$</text>
+        <text x="188" y="208" fill="#e2e8f0">./boot.sh --profile harini</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.12;0.13;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="231" fill="#4ade80">[ OK ]</text>
+        <text x="240" y="231" fill="#cbd5e1">cloud</text>
+        <text x="335" y="231" fill="#64748b">→</text>
+        <text x="360" y="231" fill="#38BDF8">aws</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.21;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="254" fill="#4ade80">[ OK ]</text>
+        <text x="240" y="254" fill="#cbd5e1">iac</text>
+        <text x="335" y="254" fill="#64748b">→</text>
+        <text x="360" y="254" fill="#38BDF8">terraform</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.29;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="277" fill="#4ade80">[ OK ]</text>
+        <text x="240" y="277" fill="#cbd5e1">automation</text>
+        <text x="335" y="277" fill="#64748b">→</text>
+        <text x="360" y="277" fill="#38BDF8">python + boto3</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.36;0.37;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="300" fill="#4ade80">[ OK ]</text>
+        <text x="240" y="300" fill="#cbd5e1">pipeline</text>
+        <text x="335" y="300" fill="#64748b">→</text>
+        <text x="360" y="300" fill="#4ade80">green</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46;0.47;0.93;0.97;1" dur="12s" repeatCount="indefinite"/>
+        <text x="172" y="322" fill="#38BDF8">&gt;</text>
+        <text x="188" y="322" fill="#e2e8f0">building something new<tspan fill="#38BDF8">▌<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
